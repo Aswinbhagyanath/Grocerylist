@@ -1,0 +1,100 @@
+{
+    "grocery" : [
+    {
+        "Serialnumber":"1",
+        "Name":"Apple",
+        "Quantity":"20",
+        "Unit":"kilogram",
+        "Department":"Fruits",
+        "Notes":"Store in refrigerator if not consuming immediately"
+    },
+    {
+        "Serialnumber":"2",
+        "Name":"Oranges",
+        "Quantity":"25",
+        "Unit":"kilogram",
+        "Department":"Fruits",
+        "Notes":"Very ripe. Consume immediately"
+    },
+    {
+        "Serialnumber":"3",
+        "Name":"Spinach",
+        "Quantity":"7",
+        "Unit":"kilogram",
+        "Department":"Vegetables",
+        "Notes":"Be strong like Popeye"
+    },
+    {
+        "Serialnumber":"4",
+        "Name":"Snakegourd",
+        "Quantity":"17",
+        "Unit":"kilogram",
+        "Department":"Vegetables",
+        "Notes":"For better immunity"
+    },
+    {
+        "Serialnumber":"5",
+        "Name":"Pens",
+        "Quantity":"7",
+        "Unit":"each",
+        "Department":"Stationary",
+        "Notes":"Write with ease"
+    },
+    {
+        "Serialnumber":"6",
+        "Name":"Milk",
+        "Quantity":"10",
+        "Unit":"litres",
+        "Department":"Other",
+        "Notes":"For growing kids"
+    },
+    {
+        "Serialnumber":"7",
+        "Name":"Eggs",
+        "Quantity":"100",
+        "Unit":"numbers",
+        "Department":"Others",
+        "Notes":"The wholesome food"
+    },
+    {
+        "Serialnumber":"8",
+        "Name":"Rice",
+        "Quantity":"70",
+        "Unit":"kilogram",
+        "Department":"Cereals",
+        "Notes":"For filling meals"
+    },
+    {
+        "Serialnumber":"9",
+        "Name":"Wheat",
+        "Quantity":"57",
+        "Unit":"kilogram",
+        "Department":"Cereals",
+        "Notes":"For muscle power"
+    },
+    {
+        "Serialnumber":"10",
+        "Name":"Chana Daal",
+        "Quantity":"30",
+        "Unit":"kilogram",
+        "Department":"Pulses",
+        "Notes":"Best combination with rotis"
+    },
+    {
+        "Serialnumber":"11",
+        "Name":"Urad daal",
+        "Quantity":"70",
+        "Unit":"kilogram",
+        "Department":"Pulses",
+        "Notes":"Have tasty dosas"
+    },
+    {
+        "Serialnumber":"12",
+        "Name":"Glue",
+        "Quantity":"20",
+        "Unit":"numbers",
+        "Department":"Stationary",
+        "Notes":"Stuck forever!"
+    }
+]
+}
